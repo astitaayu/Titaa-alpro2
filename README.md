@@ -1,2 +1,1 @@
-# Titaa-alpro2
-aplikasi ini di buatg untuk mendeteksi daun tomat menggunakan metode CNN
+Link klasifikasi : Collab/deteksi_daun_tomat.ipynb
